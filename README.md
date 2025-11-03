@@ -88,10 +88,4 @@ Aquí se presentan las tecnologías y herramientas con las que trabajo:
   <a href="https://www.linkedin.com/in/yuliana-chambi-2b0498360/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Yuls-Ch" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
-  </a>
 </p>
