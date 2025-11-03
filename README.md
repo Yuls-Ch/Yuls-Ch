@@ -1,21 +1,21 @@
-## 👋 ¡Hola, soy Yuliana!
+## 👋 Hi, I'm Yuliana!
 
-🚀 **Developer Jr en formación** | 💡 **Full Stack y UX/UI Enthusiast**
+🚀 **Junior Developer in Training** | 💡 **Full Stack & UX/UI Enthusiast**
 
-🎓 Estudiante de **Computación e Informática** en **Cibertec**, apasionada por el desarrollo web, móvil y el análisis de sistemas.
+🎓 Student of **Computer Science** at **Cibertec**, passionate about web and mobile development as well as systems analysis.
 
-* Me encanta aprender nuevas tecnologías, diseñar y construir soluciones creativas y funcionales.
-* Actualmente en búsqueda de **mi primera experiencia preprofesional**, donde pueda aprender, aportar y seguir creciendo.
-* Disfruto trabajar en equipo, aportar ideas y asumir nuevos retos.
-* Abierta a oportunidades **presenciales o remotas**.
+* I love learning new technologies, designing, and building creative and functional solutions.  
+* Currently looking for my **first pre-professional experience**, where I can learn, contribute, and keep growing.  
+* I enjoy teamwork, sharing ideas, and taking on new challenges.  
+* Open to **onsite or remote opportunities**.  
 
 ---
 
-## ⚙️ Habilidades Técnicas
+## ⚙️ Technical Skills
 
-Aquí se presentan las tecnologías y herramientas con las que trabajo:
+Here are the technologies and tools I work with:
 
-### 💻 Lenguajes y frameworks
+### 💻 Languages & Frameworks
 <p align="center">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white&style=flat-square"/>
@@ -29,27 +29,27 @@ Aquí se presentan las tecnologías y herramientas con las que trabajo:
     <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=fff&style=flat-square"/>
 </p>
 
-### 🗄️ Bases de datos
+### 🗄️ Databases
 <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square"/>
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square"/>
 </p>
 
-### 🌐 Desarrollo web
+### 🌐 Web Development
 <p align="center">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=flat-square"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat-square"/>
     <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=flat-square"/>
 </p>
 
-### 🔌 APIs y herramientas
+### 🔌 APIs & Tools
 <p align="center">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=flat-square"/>
 </p>
 
-### 🧰 Entornos de desarrollo
+### 🧰 Development Environments
 <p align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=white&style=flat-square"/>
@@ -59,7 +59,7 @@ Aquí se presentan las tecnologías y herramientas con las que trabajo:
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square"/>
 </p>
 
-### 🎨 Diseño y comunicación
+### 🎨 Design & Collaboration
 <p align="center">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat-square"/>
@@ -70,19 +70,18 @@ Aquí se presentan las tecnologías y herramientas con las que trabajo:
 
 ---
 
-## 📈 Mi Actividad en GitHub
+## 📈 My GitHub Activity
 
-> Me motiva seguir aprendiendo y mejorar en cada proyecto, combinando lo técnico con lo visual.
+> I'm motivated to keep learning and improving with every project — combining technical precision with visual creativity.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuls-Ch&show_icons=true&theme=ocean_dark&hide_border=true&title_color=9feaf9&icon_color=c5c9ff&text_color=ffffff&bg_color=1c1917" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuls-Ch&layout=compact&theme=ocean_dark&hide_border=true&title_color=9feaf9&icon_color=c5c9ff&text_color=ffffff&bg_color=1c1917" height="180em"/>
 </div>
 
-
 ---
 
-## 💼 Conecta conmigo
+## 💼 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuliana-chambi-2b0498360/" target="_blank">
