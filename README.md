@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Yuliana!
 
-🚀 **Junior Developer in Training** | 💡 **Full Stack & UX/UI Enthusiast**
+🚀 **Developer in Training** | 💡 **Full Stack & UX/UI Enthusiast**
 
 🎓 Student of **Computer Science** at **Cibertec**, passionate about web and mobile development as well as systems analysis.
 
