@@ -75,9 +75,10 @@ Here are the technologies and tools I work with:
 > I'm motivated to keep learning and improving with every project — combining technical precision with visual creativity.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuls-Ch&show_icons=true&theme=ocean_dark&hide_border=true&title_color=9feaf9&icon_color=c5c9ff&text_color=ffffff&bg_color=1c1917" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuls-Ch&layout=compact&theme=ocean_dark&hide_border=true&title_color=9feaf9&icon_color=c5c9ff&text_color=ffffff&bg_color=1c1917" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yuls-Ch&show_icons=true&theme=ocean_dark" height="180em"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yuls-Ch&layout=compact&theme=ocean_dark" height="180em"/>
 </div>
+
 
 ---
 
