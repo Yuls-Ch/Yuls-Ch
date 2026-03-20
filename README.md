@@ -1,9 +1,11 @@
 ## 👋 ¡Hola! Soy Yuliana
 
-🚀 **Desarrolladora Frontend y UX/UI**
+🚀 **Desarrolladora Full Stack y UX/UI**
 
-Egresada de **Computación e Informática** con enfoque en desarrollo **Frontend**.  
-Apasionada por el desarrollo **web y móvil**, participando en el análisis, diseño y construcción de **aplicaciones y servicios web**.
+Egresada de **Computación e Informática** con enfoque en desarrollo **Full Stack**.  
+
+Apasionada por el desarrollo **web y móvil**, participando en el análisis, diseño y construcción de **aplicaciones y servicios web**, integrando APIs y aplicando buenas prácticas de programación para crear soluciones 
+eficientes y escalables.
 
 ---
 
